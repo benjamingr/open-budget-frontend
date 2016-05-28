@@ -20,7 +20,7 @@ First make sure you have npm installed, if not install it according to the instr
 
 Checkout the project from ```https://github.com/OpenBudget/open-budget-frontend/``` and then go into the open-budget directory and run these in the command line:
 
-    $ cd open-budget
+    $ cd open-budget-frontend
     $ npm install
     $ sudo npm install -g bower
     $ bower update
